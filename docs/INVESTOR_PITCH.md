@@ -118,12 +118,12 @@ Win % = (Team Form × 60%) + (Head-to-Head × 40%) + Home Advantage (5%)
 ## 6. COST BREAKDOWN
 
 ### Initial Development (3 months MVP)
-| Item | Cost |
+<!-- | Item | Cost |
 |------|------|
 | Team salaries (4 people × 3 months) | $60,000 - $90,000 |
 | Infrastructure (dev + staging) | $500 |
 | API subscriptions (testing) | $300 |
-| Design tools & software | $200 |
+| Design tools & software | $200 | -->
 | **Total MVP** | **$61,000 - $91,000** |
 
 ### Monthly Operating Costs (Post-Launch)
@@ -153,11 +153,11 @@ Win % = (Team Form × 60%) + (Head-to-Head × 40%) + Home Advantage (5%)
 | **Total/month** | **$410** |
 
 ### 12-Month Budget (Post-MVP)
-- Operational costs: $2,500 - $5,000
+<!-- - Operational costs: $2,500 - $5,000
 - Team salaries (3 engineers, 1 PM): $180,000
 - Marketing & user acquisition: $30,000
 - Legal & compliance: $10,000
-- **Year 1 Total**: ~$225,000
+- **Year 1 Total**: ~$225,000 -->
 
 ---
 
